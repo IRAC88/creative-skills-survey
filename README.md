@@ -1,0 +1,1 @@
+Hello! We're a team building a project that helps young people learn creative digital skills. We want to know what skills and topics you are most interested in. Your feedback is crucial to help us design a free program based on your motivations. This anonymous survey takes just a few minutes. Thank you for helping us!
