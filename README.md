@@ -16,3 +16,4 @@ git push origin main
 - **Verify:** go to the Actions tab on GitHub, wait for the `Deploy to GitHub Pages` workflow to finish, then open the expected URL. If Pages isn't enabled automatically, visit the repository Settings → Pages and ensure the deployment target is set to `GitHub Actions`.
 
 If you want, I can also open a PR or push these changes for you (I need your permission to push). 
+Yes, please push the changes and help me to run the survey, respectively the URL link. I'm a newcomer at GitHub;)
